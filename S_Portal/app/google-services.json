@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "127674845352",
+    "firebase_url": "https://final-ac43b.firebaseio.com",
+    "project_id": "final-ac43b",
+    "storage_bucket": "final-ac43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127674845352:android:de505c61f9b170b0",
+        "android_client_info": {
+          "package_name": "com.example.sahil.theportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127674845352-7mmij2d6e7oe88euabk4meknkcg4vc4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.theportal",
+            "certificate_hash": "334dcc27cae32eccbc8131c3eb96553c62a4662f"
+          }
+        },
+        {
+          "client_id": "127674845352-09ts5nrrgd957rga7cja0hq9qipfml02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOPKsx0o65p6t3HIrQzJFRlRp5cV2tsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127674845352-09ts5nrrgd957rga7cja0hq9qipfml02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127674845352-jmrhfgo5lcemqs9v41hf1vn6uu31qoph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sitpune.final"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127674845352:android:f90dcd6651a239c1",
+        "android_client_info": {
+          "package_name": "com.mathur.sahil.s_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127674845352-oger76unigea3kqdutareaple7r7abmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathur.sahil.s_portal",
+            "certificate_hash": "334dcc27cae32eccbc8131c3eb96553c62a4662f"
+          }
+        },
+        {
+          "client_id": "127674845352-09ts5nrrgd957rga7cja0hq9qipfml02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOPKsx0o65p6t3HIrQzJFRlRp5cV2tsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127674845352-09ts5nrrgd957rga7cja0hq9qipfml02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127674845352-jmrhfgo5lcemqs9v41hf1vn6uu31qoph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sitpune.final"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
